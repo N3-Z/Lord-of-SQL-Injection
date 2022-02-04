@@ -1,0 +1,5 @@
+'%09or%09id='admin'--%09-
+
+
+reference:
+https://security.stackexchange.com/questions/127655/would-removing-spaces-in-a-string-protect-against-sql-injection
